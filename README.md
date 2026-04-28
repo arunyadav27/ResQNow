@@ -15,7 +15,7 @@ A privacy-first emergency response system that connects people in danger with ne
 | **Team Leader** | Arun Kumar Yadav |
 | **Member** | Aditya Pratap Singh |
 | **Member** | Praveen Kumar |
-| **Member** | Abhay Kumar |
+| **Member** | Ipshita Pandey|
 | **College** | School of Management Sciences, Lucknow |
 
 ---
